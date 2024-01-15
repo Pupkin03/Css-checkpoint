@@ -1,0 +1,61 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: aqua;
+}
+
+section{
+    position: absolute;
+    top: 5rem;
+}
+
+
+.upper{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.formula{
+    display: flex;
+    gap: 0.2rem;
+    flex-direction: column;
+    width: 20rem;
+}
+
+
+
+
+
+
+ul{
+    list-style-type: none;
+    background-color: antiquewhite;
+    padding:20px;
+    border: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    gap: 75rem;
+
+}
+
+.new{
+    display: flex;
+    gap: 5rem;
+}
+
+
+
+.bar{
+    display: block;
+    position: sticky;
+
+}
+
+h1{
+    color: red;
+}
